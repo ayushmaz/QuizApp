@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="name">Name</string>
+    <string name="quiz">quiz</string>
+
+    <string name="question1">Question 1</string>
+    <string name="question1_view">In which country would you find
+        the world\'s largest football stadium (by capacity)?</string>
+    <string name="north_korea">north korea</string>
+    <string name="spain">spain</string>
+    <string name="mexico">mexico</string>
+    <string name="china">china</string>
+
+
+    <string name="question2">Question 2</string>
+    <string name="question2_view">Which club have won the most Serie A titles?</string>
+    <string name="roma">roma</string>
+    <string name="milan">milan</string>
+    <string name="inter">internazionale</string>
+    <string name="juventus">juventus</string>
+
+    <string name="question3">Question 3</string>
+    <string name="question3_view">Who were the last French club to play in a Champions League final?</string>
+    <string name="marseille">Marseille</string>
+    <string name="saint">Saint-Étienne</string>
+    <string name="psg">Paris Saint-Germain</string>
+    <string name="monaco">AS Monaco</string>
+
+    <string name="question4">Question 4</string>
+    <string name="question4_view">Which club won the German Cup last season?</string>
+    <string name="wolfsburg">VfL Wolfsburg</string>
+    <string name="dortmund">Borussia Dortmund</string>
+    <string name="Bayern">Bayern Munich</string>
+    <string name="freiburg">SC Freiburg</string>
+
+    <string name="question5">Question 5</string>
+    <string name="question5_view">Which players has the most number of ballon d\'or awards?</string>
+    <string name="cristiano">Cristiano Ronaldo</string>
+    <string name="neymar">Neymar JR</string>
+    <string name="messi">Lionel Messi</string>
+    <string name="zizou">Zinedine Zidane</string>
+
+    <string name="question6">Question 6</string>
+    <string name="question6_view">Which country has won the 2018 FIFA World Cup?</string>
+
+
+
+
+    <string name="terms">I agree to all the terms and conditions</string>
+
+    <string name="submit">submit</string>
+
+
+</resources>
